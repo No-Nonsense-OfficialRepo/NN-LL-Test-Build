@@ -1,8 +1,0 @@
-NN LAN Launcher V0.9.63 — Test Build
-This build lets Play launch games that require administrator permission. Windows will show a UAC prompt; approve it to start the game.
-
-Download LAN Launcher V0.9.63.zip from Assets and extract the entire folder. Keep Host.exe, Client.exe, Quick Start.exe, and Launcher Bin together. Use V0.9.63 on both the Host and Client PCs.
-
-This is a test build. The packaged Host and Client passed startup checks, but launching an administrator-required game through the Windows UAC prompt still needs a live test. The launcher executables are unsigned, so Windows or antivirus software may show a warning.
-
-The automatically generated “Source code” ZIP is not the playable launcher. Download the attached LAN Launcher V0.9.63.zip instead.
